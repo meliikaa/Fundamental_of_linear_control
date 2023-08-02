@@ -14,8 +14,13 @@ This repository serves as a learning resource for students, researchers, and any
 In this project, you will find detailed explanations and examples of the following linear control tools:
 
 Root Locus: Understanding and plotting root loci to analyze system stability and design controllers.
+
 Feedback Loops: Designing feedback loops for closed-loop control systems and evaluating their performance.
+
 PID Tuner: Utilizing the built-in PID tuner in MATLAB for tuning proportional-integral-derivative (PID) controllers.
-Nyquist Plots: Plotting Nyquist diagrams to assess system stability and robustness.
+
+Nyquist Plots: Plotting Nyquist diagrams to assess system stability and robustness
+
 Stability Margins: Calculating and interpreting stability margins (e.g., gain margin, phase margin) for feedback systems.
+
 Step Response: Analyzing the step response of systems to assess performance and transient behavior.
